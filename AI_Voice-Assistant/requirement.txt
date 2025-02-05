@@ -1,0 +1,11 @@
+pyaudio
+pyttsx3
+speechrecognition
+pywhatkit
+pyautogui
+playsound
+requests
+googletrans==4.0.0-rc1
+wolframalpha
+tk
+Pillow
